@@ -41,5 +41,5 @@ The test cases and test results are documented in the following spreadsheet:
 
 ---
 
-# 📂 Project Structure
+
 
